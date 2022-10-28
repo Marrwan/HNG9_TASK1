@@ -9,7 +9,8 @@ You can access the REST API of the server using the following endpoints:
 
 
 ```json
-{ "slackUsername": String,
+{ 
+ "slackUsername": String,
  "backend": Boolean, 
  "age": Integer,
   "bio": String
